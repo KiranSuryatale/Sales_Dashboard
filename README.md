@@ -9,7 +9,7 @@ The Sales Dashboard Analyzer allows users to visualize sales and profit trends f
 
 - **Data Visualization:** Generate professional charts including:
 
-    - **Line Charts: To track monthly sales trends.
+    - **Line Charts:** To track monthly sales trends.
 
     - **Bar Charts:** To compare monthly profit distribution.
 
